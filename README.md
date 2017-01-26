@@ -1,0 +1,1 @@
+The purpose of this excercise is to link a javascript file to your HTML file.
